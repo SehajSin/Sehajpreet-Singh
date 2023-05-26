@@ -49,6 +49,7 @@ public class CardTrick {
     }
    
      //Sehajpreet singh May 26 2023
+     * // I'm done!
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
